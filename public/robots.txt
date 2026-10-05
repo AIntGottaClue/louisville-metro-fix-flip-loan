@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://louisvillefixandflip.loansapp.cfd/sitemap.xml
